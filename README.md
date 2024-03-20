@@ -8,3 +8,5 @@ located throughout Manhattan, Brooklyn, Queens, the Bronx, and Jersey City.
 Lyft issues performance reports on a monthly basis that aggregate data over a 30-day period. Although more detailed real-time performance and service data are available via the Generalized Bike Share Feed Specification (GBFS) format(below), this dataset cannot be easily viewed or analyzed without advanced data processing skills . 
 ![gbfs Image ref](/gbfs.png)
 
+[https://public.tableau.com/shared/H35N7SK8S?:display_count=n&:origin=viz_share_link]
+
