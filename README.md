@@ -2,4 +2,5 @@ CitiBike first launched in 2013 and has since become an important fixture of New
 located throughout Manhattan, Brooklyn, Queens, the Bronx, and Jersey City.
 
 Lyft issues performance reports on a monthly basis that aggregate data over a 30-day period. Although more detailed real-time performance and service data are available via the Generalized Bike Share Feed Specification (GBFS) format, this dataset cannot be easily viewed or analyzed without advanced data processing skills . 
+[Citibike Image ref](/Citibike.jpg)
 
